@@ -1,0 +1,1 @@
+angular.module("phonesApp", ["ngAnimate", "ngRoute", "phonesList", "phoneDetails", "core"]);
